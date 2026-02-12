@@ -1,0 +1,22 @@
+node_modules
+backups
+# package-lock.json
+.github/instructions/
+baileys_auth_info
+test.json
+.env
+.idea
+.vscode
+all.json
+common.json
+index.html
+test-index.js
+# assets
+baileys_store_multi.json
+# mongo-DB
+# indexMongodb.js
+# mongodb.js
+.fake
+cookie.json
+# logs
+temp/
